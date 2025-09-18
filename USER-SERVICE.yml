@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: USER-SERIVCE
 server:
   port: 8081
 eureka:
